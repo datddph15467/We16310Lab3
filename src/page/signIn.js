@@ -40,6 +40,10 @@ const signIn = {
           <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500">
             Forgot your password?
           </a>
+          <span>or</span>
+          <a href="signUp" class="font-medium text-indigo-600 hover:text-indigo-500">
+            Sign Up !
+          </a>
         </div>
       </div>
 
